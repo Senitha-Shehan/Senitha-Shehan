@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Native, Android, Pytho**
 
-- 💬 Ask me about **Web, Android**
+- 💬 Ask me about **Web, Android Studio**
 
 - 📫 How to reach me **senitha200109@gmail.com**
 
