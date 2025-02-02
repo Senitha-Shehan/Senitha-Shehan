@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=senitha-shehan" alt="senitha-shehan" /></a> </p>
 
-- 🌱 I’m currently learning **React Native, Android, Pytho**
+- 🌱 I’m currently learning **React Native, Android, Python**
 
 - 💬 Ask me about **Web, Android Studio**
 
